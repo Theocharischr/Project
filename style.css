@@ -1,7 +1,8 @@
 body {
+	
     margin: 0;
     padding: 0;
-    background: #ccc;
+    background-color: 	#F0F8FF;
 }
 
 .nav ul {
@@ -32,6 +33,7 @@ body {
 
 
 
+
 @media screen and (min-width: 600px) {
     .nav li {
         width: 120px;
@@ -45,3 +47,16 @@ body {
         display: inline-block;
         margin-right: -4px;
     }
+	.biofont{font-size: 1.2em;}
+	.homefont {font-size:1.2em;
+	font-family: 'Arial';
+	
+	}
+    .projectfont{font-size: 1.2em; 
+	
+	margin:5;}
+.contactfont{font-size: 1.2em;
+font-family: 'Arial';
+font-style: ;
+}
+ 	
